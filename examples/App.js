@@ -21,8 +21,8 @@ export default class App extends Component {
           <ul className={classes.nav}>
             <li className={classes.current}><a href="#">usage</a></li>
             <li><a href="#examples">examples</a></li>
-            <li><a href="http://github.com/fatiherikli/react-designer">docs</a></li>
-            <li><a href="http://github.com/fatiherikli/react-designer">show on github</a></li>
+            <li><a href="http://github.com/react-designer/react-designer">docs</a></li>
+            <li><a href="http://github.com/react-designer/react-designer">show on github</a></li>
           </ul>
         </div>
         <div className={classes.usage}>
